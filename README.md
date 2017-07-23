@@ -2,6 +2,7 @@
 
 This is a piece of code that I wrote because I wanted to try out an assignment I found 
 online when reading up on algorithms.
+It was created spring -17.
  
 It is a method that implements an A* search algorithm to find and return the shortest 
 path between two points in a 2-dimensional map.
